@@ -1,3 +1,5 @@
+--Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
+
 --- [[SCRIPT]]--
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
