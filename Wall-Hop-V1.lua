@@ -3,7 +3,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "GUI V1",
     Text = "By HKTD",
-    Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150",
+    Icon = "rbxassetid://132292718620518";
     Duration = 5
 })
 
