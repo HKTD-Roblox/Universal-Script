@@ -1,5 +1,11 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "FLY GUI V3",
+    Text = "BY HKTD",
+    Duration = 5
+})
+
 local main = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local up = Instance.new("TextButton")
