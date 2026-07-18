@@ -3,6 +3,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "FLY GUI V3",
     Text = "By HKTD",
+	Icon = "rbxassetid://132292718620518";
     Duration = 5
 })
 
