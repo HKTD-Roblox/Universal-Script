@@ -2,7 +2,7 @@
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "FLY GUI V3",
-    Text = "BY HKTD",
+    Text = "By HKTD",
     Duration = 5
 })
 
