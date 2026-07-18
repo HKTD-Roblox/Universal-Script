@@ -3,7 +3,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Touch Fling",
     Text = "By HKTD",
-	Icon = "rbxassetid://132292718620518";
+	Icon = "rbxassetid://132292718620518",
     Duration = 5
 })
 
