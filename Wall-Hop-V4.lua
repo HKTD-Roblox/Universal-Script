@@ -1,7 +1,7 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "GUI V3",
+    Title = "GUI V4",
     Text = "BY HKTD",
     Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150",
     Duration = 5
