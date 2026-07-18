@@ -982,7 +982,7 @@ else
 end
 updateKeybindDisplay()
 
-local notificationText = "BY HKTD"
+local notificationText = "By HKTD"
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "FLY GUI V4";
     Text = notificationText;
