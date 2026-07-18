@@ -715,7 +715,7 @@ local function toggleFly()
         onof.BackgroundColor3 = Color3.fromRGB(255, 100, 100)
         startFly()
     else
-        onof.Text = "fly"
+        onof.Text = "FLY"
         onof.BackgroundColor3 = Color3.fromRGB(255, 249, 74)
         stopFly()
     end
@@ -982,7 +982,6 @@ else
 end
 updateKeybindDisplay()
 
-local methodText = getgenv().useV3Method and "V3" or "V4"
 local notificationText = "BY HKTD"
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "FLY GUI V4";
