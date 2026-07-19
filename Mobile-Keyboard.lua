@@ -1,3 +1,12 @@
+--Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Mobile Keyboard",
+    Text = "By HKTD",
+	  Icon = "rbxassetid://123653870026944",
+    Duration = 5
+})
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/cracked.txt", true))()
 
 -- Instances: 345 | Scripts: 6 | Modules: 0
