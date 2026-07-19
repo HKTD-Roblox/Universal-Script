@@ -3,8 +3,8 @@
 game:GetService("StarterGui"):SetCore("SendNotification", { 
 	Title = " GUI V2";
 	Text = "By HKTD";
-	Icon = "rbxassetid://132292718620518",
-Duration = 5;
+	Icon = "rbxassetid://123653870026944",
+    Duration = 5;
 })
 
 -- Create ScreenGui
