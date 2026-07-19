@@ -1,3 +1,5 @@
+--Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local StarterGui = game:GetService("StarterGui")
