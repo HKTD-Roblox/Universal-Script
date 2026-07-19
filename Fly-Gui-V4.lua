@@ -986,6 +986,6 @@ local notificationText = "By HKTD"
 game:GetService("StarterGui"):SetCore("SendNotification", { 
     Title = "FLY GUI V4",
     Text = notificationText,
-    Icon = "rbxassetid://132292718620518",
+    Icon = "rbxassetid://123653870026944",
     Duration = 5;
 })
