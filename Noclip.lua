@@ -13,6 +13,7 @@ local function notify(message)
         {
             Title = "Noclip Script",
             Text = message,
+            Icon = "rbxassetid://123653870026944",
             Duration = 3
         }
     )
