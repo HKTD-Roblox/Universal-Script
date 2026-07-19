@@ -1,3 +1,12 @@
+--Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
+
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Title = "Hitbox Expander",
+    Text = "By HKTD",
+	Icon = "rbxassetid://132292718620518",
+    Duration = 5
+})
+
 local WindUI = loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
 
 local window = WindUI:CreateWindow({
