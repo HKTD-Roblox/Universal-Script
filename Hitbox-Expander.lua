@@ -3,7 +3,7 @@
 game:GetService("StarterGui"):SetCore("SendNotification", {
     Title = "Hitbox Expander",
     Text = "By HKTD",
-	Icon = "rbxassetid://132292718620518",
+	Icon = "rbxassetid://123653870026944",
     Duration = 5
 })
 
