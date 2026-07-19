@@ -1,7 +1,7 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "GUI V3",
+    Title = "Wall Hop GUI V3",
     Text = "By HKTD",
     Icon = "rbxassetid://123653870026944",
     Duration = 5
