@@ -1,11 +1,6 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
-game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Touch Fling",
-    Text = "By HKTD",
-	Icon = "rbxassetid://123653870026944",
-    Duration = 5
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTD-Roblox/Script-Beta/refs/heads/main/Script-By-HKTD.lua", true))()
 
 -- Services
 local RunService = game:GetService("RunService")
