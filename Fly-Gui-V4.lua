@@ -982,10 +982,4 @@ else
 end
 updateKeybindDisplay()
 
-local notificationText = "By HKTD"
-game:GetService("StarterGui"):SetCore("SendNotification", { 
-    Title = "FLY GUI V4",
-    Text = notificationText,
-    Icon = "rbxassetid://123653870026944",
-    Duration = 5;
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTD-Roblox/Script-Beta/refs/heads/main/Script-By-HKTD.lua", true))()
