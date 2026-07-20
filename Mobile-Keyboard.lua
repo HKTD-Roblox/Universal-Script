@@ -1,13 +1,6 @@
 --Script By HKTD, TikTok: https://www.tiktok.com/@hktd_roblox
 
-game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Mobile Keyboard",
-    Text = "By HKTD",
-	  Icon = "rbxassetid://123653870026944",
-    Duration = 5
-})
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/Ata/main/cracked.txt", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HKTD-Roblox/Script-Beta/refs/heads/main/Mobile-Keyborad.lua", true))()
 
 -- Instances: 345 | Scripts: 6 | Modules: 0
 local G2L = {};
@@ -2244,7 +2237,7 @@ G2L["13c"]["TextSize"] = 14;
 G2L["13c"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["13c"]["Size"] = UDim2.new(0, 121, 0, 22);
 G2L["13c"]["Active"] = true;
-G2L["13c"]["Text"] = [[Mobile Mobile - Keyboard Crack By HKTD]];
+G2L["13c"]["Text"] = [[Mobile Keyboard | Made By HKTD]];
 G2L["13c"]["Name"] = [[Title]];
 G2L["13c"]["BackgroundTransparency"] = 1;
 G2L["13c"]["Position"] = UDim2.new(0, 9, 0, 2);
