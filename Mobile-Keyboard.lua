@@ -2792,7 +2792,7 @@ local function C_138()
 		if IsSelecting.Value == true then
 			script.Parent.Title.Text = "Mobile Keyboard | Made By HKTD"
 		elseif IsSelecting.Value == false then
-			script.Parent.Title.Text = "Mobile Mobile - Keyboard Cracked By HKTD"
+			script.Parent.Title.Text = "Mobile Keyboard - Keyboard Cracked By HKTD"
 		end
 	end)
 
